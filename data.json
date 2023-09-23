@@ -1,0 +1,176 @@
+{
+  "arabica": [
+    {
+      "foto": "images/produk/product_capuchino.jpg",
+      "nama": "Cappuccino Arabica",
+      "size": "300 ml",
+      "harga": "200.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!"
+    },
+    {
+      "foto": "images/produk/product_espresso.jpg",
+      "nama": "Pahit Arabica",
+      "size": "200 ml",
+      "harga": "100.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!"
+    },
+    {
+      "foto": "images/produk/product_latte.jpg",
+      "nama": "Latte Arabica",
+      "size": "150 ml",
+      "harga": "150.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!"
+    },
+    {
+      "nama": "Arabica Flores",
+      "size": "100 gr",
+      "harga": "43.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/03/03/IMG_20230303_212807-2811895425.jpg"
+    },
+    {
+      "nama": "Non Sugar",
+      "size": "150 ml",
+      "harga": "35.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://images.pexels.com/photos/15891300/pexels-photo-15891300/free-photo-of-wood-dawn-caffeine-coffee.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "nama": "Kolajeni Arabica",
+      "size": "150 ml",
+      "harga": "53.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://images.pexels.com/photos/14140071/pexels-photo-14140071.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "nama": "Kintamani Arabica",
+      "size": "200 ml",
+      "harga": "80.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://images.pexels.com/photos/429809/pexels-photo-429809.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "nama": "Mandailling Full Washed Arabica",
+      "size": "200 ml",
+      "harga": "105.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://images.pexels.com/photos/4109852/pexels-photo-4109852.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+  ],
+  "robusta": [
+    {
+      "foto": "images/produk/product_kopi_susu.jpg",
+      "nama": "Kopsus Robusta",
+      "size": "100 ml",
+      "harga": "20.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!"
+    },
+    {
+      "foto": "images/produk/product_latte.jpg",
+      "nama": "Latte Robusta",
+      "size": "150 ml",
+      "harga": "50.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!"
+    },
+    {
+      "nama": "Robusta Temanggung",
+      "size": "100 gr",
+      "harga": "20.500",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://down-id.img.susercontent.com/file/d7c23ba1439d6de4e74841403c27274e"
+    },
+    {
+      "nama": "Robusta Lampung",
+      "size": "100 gr",
+      "harga": "16.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://koffiendo.co.id/wp-content/uploads/2022/11/photo_6062076155252552359_y.jpg"
+    },
+    {
+      "nama": "Robusta Pacitan",
+      "size": "100 ml",
+      "harga": "34.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://down-id.img.susercontent.com/file/01a40688407df91660fad7a0c1c0879f"
+    },
+    {
+      "nama": "Robusta Lampung",
+      "size": "150 ml",
+      "harga": "42.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://images.pexels.com/photos/18421531/pexels-photo-18421531/free-photo-of-food-dawn-caffeine-coffee.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "nama": "Java Robusta",
+      "size": "150 ml",
+      "harga": "39.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://images.pexels.com/photos/9260174/pexels-photo-9260174.jpeg"
+    },
+    {
+      "nama": "Jamus Robusta",
+      "size": "150 ml",
+      "harga": "40.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://images.pexels.com/photos/17942538/pexels-photo-17942538/free-photo-of-dawn-caffeine-coffee-cup.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+  ],
+  "nonkopi": [
+    {
+      "nama": "porridge with cut vegetarian cutlet",
+      "size": "one portion",
+      "harga": "55.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://images.pexels.com/photos/7175533/pexels-photo-7175533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "nama": "Pentol Corah (lokal meatballs)",
+      "size": "one portion",
+      "harga": "30.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://lh6.googleusercontent.com/proxy/fvQZJiTa_8BmYol3JpUMEVkXirBDyrnKlXuGtnuN3D07eCOEOh0jmeUfZTJnclQ7agwZVDDxUJvlh-Zw-x6huZOGALmVBzUeMohN_xVsB_NZUc0AmO4m6ZRK=s0-d"
+    },
+    {
+      "nama": "Fries and Dipping Sauce",
+      "size": "one portion",
+      "harga": "35.000",
+      "link": "#",
+      "foto": "https://images.pexels.com/photos/1893555/pexels-photo-1893555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    {
+      "nama": "Croissant",
+      "size": "1 pcs",
+      "harga": "25.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://images.pexels.com/photos/4109373/pexels-photo-4109373.jpeg"
+    },
+    {
+      "nama": "donuts",
+      "size": "1 pcs",
+      "harga": "10.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://images.pexels.com/photos/3656118/pexels-photo-3656118.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "nama": "Waffle Crunch",
+      "size": "one portion",
+      "harga": "39.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://images.pexels.com/photos/5991004/pexels-photo-5991004.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "nama": "Original Green Klepon",
+      "size": "one portion",
+      "harga": "20.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://bolakeluarga.com/images/klepon.jpg"
+    },
+    {
+      "nama": "Cocopandan Terang Bulan",
+      "size": "one portion",
+      "harga": "40.000",
+      "link": "https://wa.me/6287828063301?text=Halo KopiKuy, Saya mau memesan tolong dibantu!",
+      "foto": "https://cakesusumoo.com/wp-content/uploads/2020/07/Cara-Membuat-Martabak-Manis-Resep-Terang-Bulan-03.jpg"
+    }
+  ]
+}
